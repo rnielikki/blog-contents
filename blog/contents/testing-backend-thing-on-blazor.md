@@ -2,9 +2,9 @@
 # Testing Backend thing on Blazor
 ## File I/O
 
-![Image Alt](contents/files/blazor-backend/1.png)
+![Image Alt](files/blazor-backend/1.png)
 
-![Image Alt](contents/files/blazor-backend/2.png)
+![Image Alt](files/blazor-backend/2.png)
 
 This one results “/” (Always, I tested on ‘/counter’ page too).
 
@@ -21,12 +21,12 @@ var t2 = new System.Threading.Thread(new System.Threading.ThreadStart(()=>Consol
 t1.Start();
 t2.Start();
 ```
-![Image Alt](contents/files/blazor-backend/3.png)
+![Image Alt](files/blazor-backend/3.png)
 
 ## IRCBot
 It will be interesting if my old IRCBot works on Blazor. But it needs to open socket. So, does it work?
 
-![Image Alt](contents/files/blazor-backend/4.png)
+![Image Alt](files/blazor-backend/4.png)
 
 [TCP Socket opening](https://developer.mozilla.org/en-US/docs/Archive/B2G_OS/API/TCPSocket) is not supported. Even MDN says it works only certain states. The raw TCP socket support has security problem, so W3C [marked it as retired](https://www.w3.org/TR/2015/NOTE-tcp-udp-sockets-20150723/). It’s highly reasonable not to support it.
 

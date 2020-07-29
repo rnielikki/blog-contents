@@ -4,7 +4,7 @@
 C# was sometimes called as "C-like Object Oriented Language" (COOL). C# is just class-based language that looks like somewhat C++. Of course, C# and Java have common features as class-based language, also it’s true that C# is based on Java, but it’s not only based on Java – Sometimes the syntax or feature look more like C++ than Java. For example, Java class methods are virtual as default, C# isn't (Of course non-virtual method can be overridden with "new" keyword, which may look weird). C# has struct. C# can define operators for calculation, which Java cannot but C++ can. C# has unsigned values, pointers in unsafe, and more... But it doesn’t mean C# is copy of C++. C# isn’t just copy of something.
 C# is more modern language than Java - which means, Kotlin will be better comparison.
 
-![Image Alt](contents/files/dotnet-neutral.jpg)
+![Image Alt](files/dotnet-neutral.jpg)
 
 *[Image source](https://twitter.com/cjbush/status/1260319306488971276) (removed)*
 

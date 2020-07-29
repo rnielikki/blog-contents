@@ -6,7 +6,7 @@
 
 But why we use this? At least, I don't have any web hosting, I don't have money and this is far more trusty. If you are sure that you want Blazor for GitHub, follow these instructions:
 
-![Overview of the solution](contents/files/blazor-to-github-page/0.svg)
+![Overview of the solution](files/blazor-to-github-page/0.svg)
 
 ## 1. Integrity fail
 
@@ -20,7 +20,7 @@ There are some possibilities:
 
 The problem is it: every dll files are binary, but *.js (including blazor.webassembly.js, dontnet.xxx.js) are not binary. (By the way, CRLF means \r\n linebreak.)
 
-![Git adds automatically CRLF to non-binary file, so the result doesn't match](contents/files/blazor-to-github-page/1.svg)
+![Git adds automatically CRLF to non-binary file, so the result doesn't match](files/blazor-to-github-page/1.svg)
 
 And the result is non-matching hash, because .js file is changed.
 
@@ -63,7 +63,7 @@ The site is almost ready, except it isn't accesible outside of index page - even
 
 [Someone made good solution](https://github.com/rafrex/spa-github-pages) to this. You can just copy from [here](https://github.com/rafrex/spa-github-pages/blob/gh-pages/index.html) and [here](https://github.com/rafrex/spa-github-pages/blob/gh-pages/404.html), from &lt;script&gt; to &lt;\/script&gt;. But what is this, and why this works? It's idea is so simple, that you can write yourself without copying them. Here are some hints:
 
-![the query string p does the trick by passing route](contents/files/blazor-to-github-page/2.svg)
+![the query string p does the trick by passing route](files/blazor-to-github-page/2.svg)
 
 When user requests to the site, GitHub site looks into the page if the directory and the file exists. It does mean that this trick doesn't work if the valid file exists on the GitHub page same as on the route path - in the picture, if you create file */posts/3* on GitHub page repo, GitHub will show it first.
 
