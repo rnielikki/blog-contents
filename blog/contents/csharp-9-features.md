@@ -13,12 +13,12 @@ This is most useful when you design **models**, including **database classes**. 
 
 It works well with **(de)serialization**, such as JSON serializer. (But please be careful with the case-sensitivity of the keys!)
 
-```CSharp
+```csharp
 //the record
 record OperatingSystem(string Name, string Version);
 ```
 
-```CSharp
+```csharp
 using System;
 using System.Text.Json;
 
@@ -43,7 +43,7 @@ This `init` is different from the readonly (get only) in two ways:
 
 This is the example of first feature. First, you define a class like this:
 
-```CSharp
+```csharp
     class Asdf
     {
         public string S { get; }
@@ -53,7 +53,7 @@ This is the example of first feature. First, you define a class like this:
 
 And try this:
 
-```Csharp
+```csharp
     new Asdf {
         X = 1, //OK
         S="Test" //Error
@@ -62,7 +62,7 @@ And try this:
 
 You can make **properties readonly without constructor arguments**. Especially if there are many properties, the definition and usage can be nasty. (There are also something like `new X(a:1, b:3)`, still you must struggle with some optional or non-optional parameters, constructor defintion is tiring and you must write more boring usage documnetation...) - or giving all of them just setter, but if not initialization only, unintended annoying value change can occur. And that's why init only is good. Consider:
 
-```CSharp
+```csharp
 //If...
 class Product
 {
@@ -186,7 +186,7 @@ It's not familiar for old C# developers, but it's worth to use the advanced patt
 
 This is just a **syntax sugar**. And why it's good is you can write less code.
 
-```CSharp
+```csharp
 Product product { get; set; }
 //...
 product = new() { Name = "Toy", Price = 11.2f };
@@ -195,7 +195,7 @@ OperatingSystem os = new("Windows", "Vista");
 
 Besides, you have less concern to the typo.
 
-```CSharp
+```csharp
 new HttpRequestMessage(new("POST"), "https://localhost"); //HTTP Method, Uri(string)
 new Regex("/[0-9]/", new(), new(2000)); //Regex Options, Timespan
 ```
