@@ -24,9 +24,12 @@ The problem is it: every dll files are binary, but *.js (including blazor.webass
 
 And the result is non-matching hash, because .js file is changed.
 
-So before you adding `_framework`, **create `.gitattributes`** first, and fill it with:
+<del>So before you adding `_framework`, **create `.gitattributes`** first, and fill it with:</del>
 
-> \* binary
+> <del>\* binary</del>
+
+Or set CRLF to false in GIT settings (this will work better):
+> git config core.autocrlf false
 
 This means everything is considered as binary, so don't touch any CRLF things to anywhere.
 

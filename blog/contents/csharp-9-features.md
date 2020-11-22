@@ -1,6 +1,5 @@
 [C#]
 # C# 9 Features - Why, and when to use
-
 https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9
 
 ## Record Types
@@ -9,7 +8,7 @@ If you have ever tried Kotlin, you've seen the `data` class. And the F# already 
 
 The point is: **the whole class is `readonly`**. It's better for concurrency, when data is shared.
 
-This is most useful when you design **models**, including **database classes**. It can represent real database (Think of the Entity Framework) or DTO (Domain Transfer object) - but when it's implemented in DTO, consider of immutability (if it's changed frequently may not fit - `initonly` may better choice dppending on the situation). Not only anemic class (class with only data types), but you can define some methods, so non-anemic data goes along too. EF Core can have [inheritance](https://docs.microsoft.com/en-us/ef/core/modeling/inheritance)? No problem. Record supports inheritance too.
+This is most useful when you design **models**, including **database classes**. It can represent real database (Think of the Entity Framework) or DTO (Domain Transfer object). Not only anemic class (class with only data types), but you can define some methods, so non-anemic data goes along too. EF Core can have [inheritance](https://docs.microsoft.com/en-us/ef/core/modeling/inheritance)? No problem. Record supports inheritance too.
 
 It works well with **(de)serialization**, such as JSON serializer. (But please be careful with the case-sensitivity of the keys!)
 
@@ -60,7 +59,9 @@ And try this:
     };
 ```
 
-You can make **properties readonly without constructor arguments**. Especially if there are many properties, the definition and usage can be nasty. (There are also something like `new X(a:1, b:3)`, still you must struggle with some optional or non-optional parameters, constructor defintion is tiring and you must write more boring usage documnetation...) - or giving all of them just setter, but if not initialization only, unintended annoying value change can occur. And that's why init only is good. Consider:
+You can make **properties readonly without constructor arguments**. Especially if there are many properties, the definition and usage can be nasty. (There are also something like `new X(a:1, b:3)`, still you must struggle with some optional or non-optional parameters, constructor defintion is tiring and you must write more boring usage documnetation...) - or giving all of them just setter, but if not initialization only, unintended annoying value change can occur. And that's why init only is good.
+
+This is also **very useful for data type** like record above, and you can use both - because the data should not changed after initialization, but still initialization should be allowed. It works very well with database type, DTO, serialization (like configuration, REST API or whatever).
 
 ```csharp
 //If...
@@ -147,13 +148,8 @@ You can check some statements with `if-else` statements, but it's nasty. Besides
 
 ```mermaid
 flowchart TB
-  subgraph Switch statement
-    N[Milk]
-    N-->X[Water]
-    N-->Y[Juice]
-    N-->Z[Milk]
-    end
-  subgraph If statement
+title["IF STATEMENT"]
+title-.-1
     subgraph 1
       A[Milk]-->Water
     end
@@ -165,10 +161,15 @@ flowchart TB
     end
     1-->2
     2-->3
-  end
+    title2["SWITCH STATEMENT"]
+    title2-.-N
+    N[Milk]
+    N-->X[Water]
+    N-->Y[Juice]
+    N-->Z[Milk]
 ```
 
-Still it's usually not so big optimization, so it looks like matter of taste, if small performance doesn't matter. But reading codes in a glance without "if" text is more clear, so, now there are two important reasons to use switch(pattern matching) in many ways.
+Still it's usually not so big optimization, so it looks like matter of taste, if small performance optimization doesn't matter. But reading codes in a glance without "if" text is more clear, so, now there are two important reasons to use switch(pattern matching) in many ways.
 
 The imporved pattern matching is [supported from C# 8.0](https://docs.microsoft.com/en-us/archive/msdn-magazine/2019/may/csharp-8-0-pattern-matching-in-csharp-8-0). Now C# 9 supports:
 
@@ -176,7 +177,7 @@ The imporved pattern matching is [supported from C# 8.0](https://docs.microsoft.
 * \>= and =< operators.
 * Nested pattern match (for example, inside `()`) support ("Parenthesized" pattern)
 
-Still there are some taste matters left, [for example](https://twitter.com/RicoSuter/status/1326322704774000641?s=20):
+Still the extended feature is matter of taste. Some people love it, while some other people hate it. (Someone said it's "Syntax Marmite" - it's loved and hated by people, like a pineapple pizza.)
 
 ![x is string and not ""](files/csharp9/brain.jpg)
 
