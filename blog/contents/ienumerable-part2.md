@@ -1,8 +1,8 @@
 [C#]
-# IEnumerables&lt;T&gt; and collections, part 2
+# IEnumerables and collections, part 2
 ![IEnumerable inheritance map](./files/ienumerable/collection.svg)
 
-[Before...](./ienumerable-part1.html)
+[Before...](/posts/ienumerable-part1.html)
 
 ## List vs Set vs LinkedList vs Array
 
