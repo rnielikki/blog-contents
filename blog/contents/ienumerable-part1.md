@@ -1,6 +1,6 @@
 [C#]
 # IEnumerables and collections, part 1
-![IEnumerable inheritance map](./files/ienumerable/collection.svg)
+![IEnumerable inheritance map](files/ienumerable/collection.svg)
 
 ## What is IEnumerable
 
@@ -87,4 +87,4 @@ Unlike `IEnumerable<T>`, now it's mutable - can add, remove, or get how much is 
 
 Another interesting implemenation is `Stack` and `Queue` - they aren't readonly, but the naming is bit different - it doesn't "add/delete", but "push/pop/queue/dequeue". So they are implemented own editing behaviours with their own name.
 
-[Next...](/posts/ienumerable-part2.html)
+[Next...](posts/ienumerable-part2)

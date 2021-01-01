@@ -1,8 +1,8 @@
 [C#]
 # IEnumerables and collections, part 2
-![IEnumerable inheritance map](./files/ienumerable/collection.svg)
+![IEnumerable inheritance map](files/ienumerable/collection.svg)
 
-[Before...](/posts/ienumerable-part1.html)
+[Before...](posts/ienumerable-part1)
 
 ## List vs Set vs LinkedList vs Array
 
@@ -31,7 +31,7 @@ When? **Common Append/Remove**
 
 When? **Edit middle of element(s) many times**
 
-![Linked List](./files/ienumerable/linkedlist.png)
+![Linked List](files/ienumerable/linkedlist.png)
 
 `LinkedList<T>` is not used in many cases, though. The usage is very different from `List<T>`. The special case can be found, for example, [Advent of Code 2020 Day 23](https://adventofcode.com/2020/day/23).
 
