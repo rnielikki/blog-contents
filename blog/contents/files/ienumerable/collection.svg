@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:xhtml="http://www.w3.org/1999/xhtml"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg312"
-   viewBox="-0.5 -0.5 1000 640"
-   height="640"
-   width="1000"
+   id="svg348"
+   style="background-color: rgb(255, 255, 255);"
+   viewBox="-0.5 -0.5 953 655"
+   height="655px"
+   width="953px"
    version="1.1">
   <metadata
-     id="metadata316">
+     id="metadata352">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,46 +26,34 @@
   <defs
      id="defs2" />
   <g
-     transform="translate(40,18)"
-     id="g310">
+     transform="translate(0,8)"
+     id="g346">
     <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
        id="path4"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 166,25 H 549.63" />
+       d="M 173.59,31.06 H 747.22" />
     <path
        style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
        id="path6"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 554.88,25 -7,3.5 1.75,-3.5 -1.75,-3.5 z" />
+       d="m 752.47,31.06 -7,3.5 1.75,-3.5 -1.75,-3.5 z" />
     <rect
-       y="18.012762"
-       x="272.02576"
-       height="19.013426"
-       width="118.16947"
-       id="rect1123-1"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       y="20.964691"
+       x="358.3847"
+       height="19.872128"
+       width="114.48718"
+       id="rect1205"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        id="g12"
-       transform="translate(271.5,16.5)">
+       transform="translate(358.5,20.5)">
       <switch
          id="switch10">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="113"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">GetEnumerator()</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
            id="text8"
            font-size="15px"
            y="16"
@@ -73,32 +61,20 @@
       </switch>
     </g>
     <rect
-       style="fill:#eeeeee;stroke:#36393d"
+       style="fill:#eeeeee;stroke:#36393d;stroke-dasharray:3, 3"
        id="rect14"
        pointer-events="none"
        height="50"
        width="110"
-       y="0"
-       x="56" />
+       y="6"
+       x="64" />
     <g
        id="g20"
-       transform="translate(68.5,16.5)">
+       transform="translate(75.5,21.5)">
       <switch
          id="switch18">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="85"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">IEnumerable</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
            id="text16"
            font-size="15px"
            y="16"
@@ -111,27 +87,15 @@
        pointer-events="none"
        height="50"
        width="110"
-       y="0"
-       x="556" />
+       y="6"
+       x="754" />
     <g
        id="g28"
-       transform="translate(569.5,16.5)">
+       transform="translate(766.5,21.5)">
       <switch
          id="switch26">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="83"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">IEnumerator</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
            id="text24"
            font-size="15px"
            y="16"
@@ -143,40 +107,28 @@
        id="path30"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 111,170 V 58.12" />
+       d="M 119.47,175.76 V 67.88" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
        id="path32"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 111,51.12 3.5,7 h -7 z" />
+       d="m 119.47,56.88 5.5,11 h -11 z" />
     <rect
-       style="fill:#ffff88;stroke:#36393d"
+       style="fill:#ffff88;stroke:#36393d;stroke-dasharray:3, 3"
        id="rect34"
        pointer-events="none"
        height="50"
        width="110"
-       y="170"
-       x="56" />
+       y="176"
+       x="64" />
     <g
        id="g40"
-       transform="translate(75.5,186.5)">
+       transform="translate(82.5,191.5)">
       <switch
          id="switch38">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="70"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">ICollection</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
            id="text36"
            font-size="15px"
            y="16"
@@ -184,44 +136,32 @@
       </switch>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3, 3;stroke-dashoffset:1"
        id="path42"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 44,341 h 12 v -41 h 55 v -71.88" />
+       d="m 51.24,347.53 h 12.94 v -41.18 h 55.29 v -67.88" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
        id="path44"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 111,221.12 3.5,7 h -7 z" />
+       d="m 119.47,227.47 5.5,11 h -11 z" />
     <rect
-       style="fill:#dae8fc;stroke:#6c8ebf"
+       style="fill:#dae8fc;stroke:#6c8ebf;stroke-dasharray:3, 3"
        id="rect46"
        pointer-events="none"
        height="50"
        width="85"
-       y="341"
-       x="1" />
+       y="347"
+       x="9" />
     <g
        id="g52"
-       transform="translate(29.5,357.5)">
+       transform="translate(36.5,362.5)">
       <switch
          id="switch50">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="28"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">IList</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
            id="text48"
            font-size="15px"
            y="16"
@@ -233,52 +173,40 @@
        id="path54"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 191,245 H 139 V 228.12" />
+       d="M 199.47,251.06 H 146.53 V 238.47" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
        id="path56"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 139,221.12 3.5,7 h -7 z" />
+       d="m 146.53,227.47 5.5,11 h -11 z" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
        id="path58"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 301,245 h 98 v -16.88" />
+       d="m 308.88,251.06 h 97.65 v -12.59" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
        id="path60"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 399,221.12 3.5,7 h -7 z" />
+       d="m 406.53,227.47 5.5,11 h -11 z" />
     <rect
        style="fill:#ffff88;stroke:#36393d;stroke-width:3"
        id="rect62"
        pointer-events="none"
        height="50"
        width="110"
-       y="220"
-       x="191" />
+       y="226"
+       x="199" />
     <g
        id="g68"
-       transform="translate(211.5,236.5)">
+       transform="translate(218.5,241.5)">
       <switch
          id="switch66">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="68"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">LinkedList</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
            id="text64"
            font-size="15px"
            y="16"
@@ -286,43 +214,31 @@
       </switch>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3,3;stroke-width:1;stroke-dashoffset:3.2"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
        id="path70"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 271,341 V 280 H 111 v -51.88" />
-    <rect
-       y="306.6897"
-       x="220.70995"
-       height="16.355635"
-       width="92.818222"
-       id="rect1123"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       d="m 279.47,347.53 v -61.18 h -160 v -48.23" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
        id="path72"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 111,221.12 3.5,7 h -7 z" />
+       d="m 119.47,227.12 5.5,11 h -11 z" />
+    <rect
+       y="307.62756"
+       x="215.78865"
+       height="19.872128"
+       width="114.48718"
+       id="rect1205-3"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        id="g78"
-       transform="translate(221.5,302.5)">
+       transform="translate(229.5,307.5)">
       <switch
          id="switch76">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="90"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">KeyValuePair</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
            id="text74"
            font-size="15px"
            y="16"
@@ -330,32 +246,20 @@
       </switch>
     </g>
     <rect
-       style="fill:#f8cecc;stroke:#b85450"
+       style="fill:#f8cecc;stroke:#b85450;stroke-dasharray:3, 3"
        id="rect80"
        pointer-events="none"
        height="50"
        width="110"
-       y="341"
-       x="216" />
+       y="347"
+       x="224" />
     <g
        id="g86"
-       transform="translate(235.5,357.5)">
+       transform="translate(242.5,362.5)">
       <switch
          id="switch84">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="71"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">IDictionary</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
            id="text82"
            font-size="15px"
            y="16"
@@ -363,44 +267,32 @@
       </switch>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3,3;stroke-width:1;stroke-dashoffset:4.5"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3, 3;stroke-dashoffset:0"
        id="path88"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 156,341 h 15 v -41 h -60 v -71.88" />
+       d="m 164.18,347.53 h 15.29 v -41.18 h -60 v -68.23" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
        id="path90"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 111,221.12 3.5,7 h -7 z" />
+       d="m 119.47,227.12 5.5,11 h -11 z" />
     <rect
-       style="fill:#fff2cc;stroke:#d6b656"
+       style="fill:#fff2cc;stroke:#d6b656;stroke-dasharray:3, 3"
        id="rect92"
        pointer-events="none"
        height="50"
        width="80"
-       y="341"
-       x="116" />
+       y="347"
+       x="124" />
     <g
        id="g98"
-       transform="translate(142.5,357.5)">
+       transform="translate(149.5,362.5)">
       <switch
          id="switch96">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="27"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">ISet</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
            id="text94"
            font-size="15px"
            y="16"
@@ -412,245 +304,173 @@
        id="path100"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 441,170 V 150 H 111 V 58.12" />
+       d="m 448.88,175.76 v -20 H 119.47 V 68.12" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
        id="path102"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 111,51.12 3.5,7 h -7 z" />
-    <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
-       id="path104"
-       pointer-events="none"
-       stroke-miterlimit="10"
-       d="M 356,195 H 174.12" />
-    <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10"
-       id="path106"
-       pointer-events="none"
-       stroke-miterlimit="10"
-       d="m 167.12,195 7,-3.5 v 7 z" />
+       d="m 119.47,57.12 5.5,11 h -11 z" />
     <rect
-       style="fill:#ffff88;stroke:#36393d"
-       id="rect108"
+       style="fill:#ffff88;stroke:#36393d;stroke-dasharray:3, 3"
+       id="rect104"
        pointer-events="none"
        height="50"
        width="170"
-       y="170"
-       x="356" />
+       y="176"
+       x="364" />
     <g
-       id="g114"
-       transform="translate(372.5,186.5)">
+       id="g110"
+       transform="translate(379.5,191.5)">
       <switch
-         id="switch112">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="137"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">IReadOnlyCollection</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch108">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text110"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text106"
            font-size="15px"
            y="16"
            x="69">IReadOnlyCollection</text>
       </switch>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3,3;stroke-width:1;stroke-dashoffset:4.5"
-       id="path116"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
+       id="path112"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 891,341 V 281 H 441 v -52.88" />
+       d="M 899.47,347.53 V 286.35 H 448.88 v -48.23" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
-       id="path118"
+       id="path114"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 441,221.12 3.5,7 h -7 z" />
+       d="m 448.88,227.12 5.5,11 h -11 z" />
     <rect
        style="fill:#ffff88;stroke:#36393d;stroke-width:3"
-       id="rect120"
+       id="rect116"
        pointer-events="none"
        height="50"
        width="70"
-       y="341"
-       x="856" />
+       y="347"
+       x="864" />
     <g
-       id="g126"
-       transform="translate(868.5,357.5)">
+       id="g122"
+       transform="translate(875.5,362.5)">
       <switch
-         id="switch124">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="45"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Queue</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch120">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text122"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text118"
            font-size="15px"
            y="16"
            x="23">Queue</text>
       </switch>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
-       id="path128"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3, 3;stroke-dashoffset:1.20000005"
+       id="path124"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 441,340 V 228.12" />
+       d="M 448.88,346.35 V 238.47" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
-       id="path130"
+       id="path126"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 441,221.12 3.5,7 h -7 z" />
+       d="m 448.88,227.47 5.5,11 h -11 z" />
     <rect
-       style="fill:#dae8fc;stroke:#6c8ebf"
-       id="rect132"
+       style="fill:#dae8fc;stroke:#6c8ebf;stroke-dasharray:3, 3"
+       id="rect128"
        pointer-events="none"
        height="50"
        width="110"
-       y="340"
-       x="386" />
+       y="346"
+       x="394" />
     <g
-       id="g138"
-       transform="translate(393.5,356.5)">
+       id="g134"
+       transform="translate(400.5,361.5)">
       <switch
-         id="switch136">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="94"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">IReadOnlyList</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch132">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text134"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text130"
            font-size="15px"
            y="16"
            x="47">IReadOnlyList</text>
       </switch>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3, 3;stroke-dashoffset:1.70000005"
+       id="path136"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 139.47,506.35 v -40 H 51.151497 L 51.44,409.06" />
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       id="path138"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 51.25,398.06 5.69,10.9 -11,0.19 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3, 3;stroke-dashoffset:3.20000005"
        id="path140"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 131,500 V 410 H 441 V 398.12" />
+       d="m 155.94,506.35 h 1.18 v -50.59 h 291.76 v -47.88" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
        id="path142"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 441,391.12 3.5,7 h -7 z" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3, 3;stroke-dashoffset:1.39999998"
-       id="path144"
-       pointer-events="none"
-       stroke-miterlimit="10"
-       d="m 131,500 v -90 0 H 65 v -10.88" />
-    <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10"
-       id="path146"
-       pointer-events="none"
-       stroke-miterlimit="10"
-       d="m 65,392.12 3.5,7 h -7 z" />
+       d="m 448.88,396.88 5.5,11 h -11 z" />
     <rect
        style="fill:#dae8fc;stroke:#6c8ebf;stroke-width:3"
-       id="rect148"
+       id="rect144"
        pointer-events="none"
        height="50"
        width="70"
-       y="500"
-       x="96" />
+       y="506"
+       x="104" />
     <g
-       id="g154"
-       transform="translate(119.5,516.5)">
+       id="g150"
+       transform="translate(126.5,521.5)">
       <switch
-         id="switch152">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="23"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">List</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch148">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text150"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text146"
            font-size="15px"
            y="16"
            x="12">List</text>
       </switch>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
-       id="path156"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3, 3;stroke-dashoffset:2"
+       id="path152"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 811,341 V 281 H 441 v -52.88" />
+       d="M 819.47,347.53 V 286.35 H 448.88 v -47.88" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
-       id="path158"
+       id="path154"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 441,221.12 3.5,7 h -7 z" />
+       d="m 448.88,227.47 5.5,11 h -11 z" />
     <rect
        style="fill:#ffff88;stroke:#36393d;stroke-width:3"
-       id="rect160"
+       id="rect156"
        pointer-events="none"
        height="50"
        width="70"
-       y="341"
-       x="776" />
+       y="347"
+       x="784" />
     <g
-       id="g166"
-       transform="translate(791.5,357.5)">
+       id="g162"
+       transform="translate(798.5,362.5)">
       <switch
-         id="switch164">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="38"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Stack</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch160">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text162"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text158"
            font-size="15px"
            y="16"
            x="19">Stack</text>
@@ -658,44 +478,32 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
-       id="path168"
+       id="path164"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 226,85 V 70 H 111 V 58.12" />
+       d="M 233.59,91.06 V 75.76 H 119.47 v -7.88" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
-       id="path170"
+       id="path166"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 111,51.12 3.5,7 h -7 z" />
+       d="m 119.47,56.88 5.5,11 h -11 z" />
     <rect
-       style="fill:#eeeeee;stroke:#36393d"
-       id="rect172"
+       style="fill:#eeeeee;stroke:#36393d;stroke-dasharray:3, 3"
+       id="rect168"
        pointer-events="none"
        height="50"
        width="170"
-       y="85"
-       x="141" />
+       y="91"
+       x="149" />
     <g
-       id="g178"
-       transform="translate(155.5,101.5)">
+       id="g174"
+       transform="translate(162.5,106.5)">
       <switch
-         id="switch176">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="140"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">IOrderedEnumerable</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch172">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text174"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text170"
            font-size="15px"
            y="16"
            x="70">IOrderedEnumerable</text>
@@ -703,89 +511,65 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
-       id="path180"
+       id="path176"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 381,85 V 70 H 111 V 58.12" />
+       d="M 388.88,91.06 V 75.76 H 119.47 v -7.88" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
-       id="path182"
+       id="path178"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 111,51.12 3.5,7 h -7 z" />
+       d="m 119.47,56.88 5.5,11 h -11 z" />
     <rect
-       style="fill:#eeeeee;stroke:#36393d"
-       id="rect184"
+       style="fill:#eeeeee;stroke:#36393d;stroke-dasharray:3, 3"
+       id="rect180"
        pointer-events="none"
        height="50"
        width="110"
-       y="85"
-       x="326" />
+       y="91"
+       x="334" />
     <g
-       id="g190"
-       transform="translate(343.5,101.5)">
+       id="g186"
+       transform="translate(350.5,106.5)">
       <switch
-         id="switch188">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="74"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">IGroupping</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch184">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text186"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text182"
            font-size="15px"
            y="16"
            x="37">IGroupping</text>
       </switch>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3,3;stroke-width:1;stroke-dashoffset:4.5"
-       id="path192"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3, 3;stroke-dashoffset:0"
+       id="path188"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 556,340 V 281 H 441 v -52.88" />
+       d="m 564.18,346.35 v -60 h -115.3 v -47.88" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
-       id="path194"
+       id="path190"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 441,221.12 3.5,7 h -7 z" />
+       d="m 448.88,227.47 5.5,11 h -11 z" />
     <rect
-       style="fill:#fff2cc;stroke:#d6b656"
-       id="rect196"
+       style="fill:#fff2cc;stroke:#d6b656;stroke-dasharray:3, 3"
+       id="rect192"
        pointer-events="none"
        height="50"
        width="110"
-       y="340"
-       x="501" />
+       y="346"
+       x="509" />
     <g
-       id="g202"
-       transform="translate(509.5,356.5)">
+       id="g198"
+       transform="translate(516.5,361.5)">
       <switch
-         id="switch200">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="93"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">IReadOnlySet</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch196">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text198"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text194"
            font-size="15px"
            y="16"
            x="47">IReadOnlySet</text>
@@ -793,235 +577,175 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
-       id="path204"
+       id="path200"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 44,500 V 399.12" />
+       d="M 51.24,506.35 V 409.06" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
-       id="path206"
+       id="path202"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 44,392.12 3.5,7 h -7 z" />
+       d="m 51.24,398.06 5.5,11 h -11 z" />
     <rect
        style="fill:#dae8fc;stroke:#6c8ebf;stroke-width:3"
-       id="rect208"
+       id="rect204"
        pointer-events="none"
        height="50"
        width="85"
-       y="500"
-       x="1" />
+       y="506"
+       x="9" />
     <g
-       id="g214"
-       transform="translate(25.5,516.5)">
+       id="g210"
+       transform="translate(32.5,521.5)">
       <switch
-         id="switch212">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="36"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Array</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch208">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text210"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text206"
            font-size="15px"
            y="16"
            x="18">Array</text>
       </switch>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3, 3;stroke-dashoffset:3.20000005"
+       id="path212"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 564.18,506.35 h 9.41 v -60 H 184.18 v -37.29" />
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       id="path214"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 184.18,398.06 5.5,11 h -11 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3, 3;stroke-dashoffset:3.20000005"
        id="path216"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 436,500 V 446 H 176 v -46.88" />
+       d="M 564.18,506.35 V 407.88" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
        id="path218"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 176,392.12 3.5,7 h -7 z" />
-    <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3,3;stroke-width:1;stroke-dashoffset:1.1"
-       id="path220"
-       pointer-events="none"
-       stroke-miterlimit="10"
-       d="M 436,500 V 446 H 556 V 398.12" />
-    <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10"
-       id="path222"
-       pointer-events="none"
-       stroke-miterlimit="10"
-       d="m 556,391.12 3.5,7 h -7 z" />
+       d="m 564.18,396.88 5.5,11 h -11 z" />
     <rect
        style="fill:#ffe6cc;stroke:#d79b00;stroke-width:3"
-       id="rect224"
+       id="rect220"
        pointer-events="none"
        height="50"
        width="110"
-       y="500"
-       x="381" />
+       y="506"
+       x="509" />
     <g
-       id="g230"
-       transform="translate(402.5,516.5)">
+       id="g226"
+       transform="translate(529.5,521.5)">
       <switch
-         id="switch228">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="67"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">SortedSet</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch224">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text226"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text222"
            font-size="15px"
            y="16"
            x="34">SortedSet</text>
       </switch>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3, 3;stroke-dashoffset:4.5999999"
+       id="path228"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 444.18,506.35 h 15.29 v -60 H 184.18 v -37.29" />
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       id="path230"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 184.18,398.06 5.5,11 h -11 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3, 3;stroke-dashoffset:4.5999999"
        id="path232"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 321,500 V 446 H 176 v -46.88" />
+       d="m 444.18,506.35 h 15.29 v -60 h 104.71 v -38.47" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
        id="path234"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 176,392.12 3.5,7 h -7 z" />
-    <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3,3;stroke-width:1;stroke-dashoffset:0.5"
-       id="path236"
-       pointer-events="none"
-       stroke-miterlimit="10"
-       d="M 321,500 V 446 H 556 V 398.12" />
-    <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10"
-       id="path238"
-       pointer-events="none"
-       stroke-miterlimit="10"
-       d="m 556,391.12 3.5,7 h -7 z" />
+       d="m 564.18,396.88 5.5,11 h -11 z" />
     <rect
        style="fill:#ffe6cc;stroke:#d79b00;stroke-width:3"
-       id="rect240"
+       id="rect236"
        pointer-events="none"
        height="50"
        width="110"
-       y="500"
-       x="266" />
+       y="506"
+       x="389" />
     <g
-       id="g246"
-       transform="translate(291.5,516.5)">
+       id="g242"
+       transform="translate(413.5,521.5)">
       <switch
-         id="switch244">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="58"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">HashSet</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch240">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text242"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text238"
            font-size="15px"
            y="16"
            x="29">HashSet</text>
       </switch>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3,3;stroke-dashoffset:2"
-       id="path248"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3, 3;stroke-dashoffset:3.20000005"
+       id="path244"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 691,340 V 281 H 441 v -52.88" />
+       d="m 699.47,346.35 v -60 H 448.88 v -47.88" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
-       id="path250"
+       id="path246"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 441,221.12 3.5,7 h -7 z" />
+       d="m 448.88,227.47 5.5,11 h -11 z" />
     <rect
-       y="313.23196"
-       x="649.22754"
-       height="16.355635"
-       width="92.818222"
-       id="rect1123-9"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       y="316.74591"
+       x="637.33191"
+       height="19.872128"
+       width="114.48718"
+       id="rect1205-9"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       id="g256"
-       transform="translate(648.5,309.5)">
+       id="g252"
+       transform="translate(656.5,316.5)">
       <switch
-         id="switch254">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="90"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#FFFFFF;">KeyValuePair</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch250">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text252"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text248"
            font-size="15px"
            y="16"
            x="45">KeyValuePair</text>
       </switch>
     </g>
     <rect
-       style="fill:#f8cecc;stroke:#b85450"
-       id="rect258"
+       style="fill:#f8cecc;stroke:#b85450;stroke-dasharray:3, 3"
+       id="rect254"
        pointer-events="none"
        height="50"
        width="150"
-       y="340"
-       x="616" />
+       y="346"
+       x="624" />
     <g
-       id="g264"
-       transform="translate(621.5,356.5)">
+       id="g260"
+       transform="translate(628.5,361.5)">
       <switch
-         id="switch262">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="138"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">IReadOnlyDictionary</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch258">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text260"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text256"
            font-size="15px"
            y="16"
            x="69">IReadOnlyDictionary</text>
@@ -1029,176 +753,403 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
+       id="path262"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 699.47,506.35 v -80 h -420 v -17.29" />
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       id="path264"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 279.47,398.06 5.5,11 h -11 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
        id="path266"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 581,500 V 430 H 271 v -30.88" />
+       d="M 699.47,506.35 V 407.88" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
        id="path268"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 271,392.12 3.5,7 h -7 z" />
-    <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
-       id="path270"
-       pointer-events="none"
-       stroke-miterlimit="10"
-       d="M 581,500 V 430 H 691 V 398.12" />
-    <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10"
-       id="path272"
-       pointer-events="none"
-       stroke-miterlimit="10"
-       d="m 691,391.12 3.5,7 h -7 z" />
+       d="m 699.47,396.88 5.5,11 h -11 z" />
     <rect
        style="fill:#f8cecc;stroke:#b85450;stroke-width:3"
-       id="rect274"
+       id="rect270"
        pointer-events="none"
        height="50"
        width="110"
-       y="500"
-       x="526" />
+       y="506"
+       x="644" />
     <g
-       id="g280"
-       transform="translate(547.5,516.5)">
+       id="g276"
+       transform="translate(664.5,521.5)">
       <switch
-         id="switch278">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="67"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Dictionary</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch274">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text276"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text272"
            font-size="15px"
            y="16"
            x="34">Dictionary</text>
       </switch>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3,3;stroke-width:1;stroke-dashoffset:1.99999998"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
+       id="path278"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 831.24,506.35 v -80 H 279.47 v -17.23" />
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       id="path280"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 279.47,398.12 5.5,11 h -11 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
        id="path282"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="M 716,500 V 430 H 691 V 398.12" />
+       d="m 831.24,506.35 v -80 H 699.47 v -18.23" />
     <path
        style="fill:none;stroke:#000000;stroke-miterlimit:10"
        id="path284"
        pointer-events="none"
        stroke-miterlimit="10"
-       d="m 691,391.12 3.5,7 h -7 z" />
-    <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3,3;stroke-width:1;stroke-dashoffset:2.5"
-       id="path286"
-       pointer-events="none"
-       stroke-miterlimit="10"
-       d="M 716,500 V 430 H 271 v -30.88" />
-    <path
-       style="fill:none;stroke:#000000;stroke-miterlimit:10"
-       id="path288"
-       pointer-events="none"
-       stroke-miterlimit="10"
-       d="m 271,392.12 3.5,7 h -7 z" />
+       d="m 699.47,397.12 5.5,11 h -11 z" />
     <rect
        style="fill:#f8cecc;stroke:#b85450;stroke-width:3"
-       id="rect290"
+       id="rect286"
        pointer-events="none"
        height="50"
        width="140"
-       y="500"
-       x="646" />
+       y="506"
+       x="761" />
     <g
-       id="g296"
-       transform="translate(660.5,516.5)">
+       id="g292"
+       transform="translate(774.5,521.5)">
       <switch
-         id="switch294">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="111"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">SortedDictionary</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch290">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text292"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text288"
            font-size="15px"
            y="16"
            x="56">SortedDictionary</text>
       </switch>
     </g>
+    <path
+       id="path1185"
+       d="M 33.159893,599.8496 H 226.7628"
+       style="fill:none;stroke:#999999;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path1181"
+       d="M 294.7628,599.8496 H 415.35621"
+       style="fill:none;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       id="g302"
-       transform="translate(31.5,583.5)">
+       id="g298"
+       transform="translate(-60.5,589.5)">
       <switch
-         id="switch300">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="16"
-           width="249"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: left;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">* Bold border: implementation (Class)</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch296">
         <text
-           style="font-size:15px;font-family:Helvetica;text-anchor:middle;fill:#000000"
-           id="text298"
+           style="font-size:15px;font-family:'Segoe UI';text-align:start;text-anchor:start;fill:#000000"
+           id="text294"
+           font-size="15px"
+           y="7"
+           x="87">* Bold border: implementation</text>
+        <text
+           id="text1173"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="6.8600349"
+           x="301.14569">* Solid line: class</text>
+        <text
+           id="text1175"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="29"
+           x="51">* Dotted line: struct</text>
+        <text
+           id="text1177"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="29"
+           x="323">* Dashed line: interface</text>
+        <text
+           id="text1171"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="43"
+           x="99">old border: implementation</text>
+      </switch>
+    </g>
+    <g
+       style="fill:#4d4d4d"
+       transform="translate(714.49865,571.91075)"
+       id="g304">
+      <switch
+         transform="translate(0,-4)"
+         style="fill:#4d4d4d"
+         id="switch302">
+        <text
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#4d4d4d"
+           id="text300"
+           font-size="15px"
+           y="33.897968"
+           x="209.48051">
+          <tspan
+             id="tspan1118"
+             style="text-align:end;text-anchor:end">ILogger&lt;T&gt;</tspan>
+        </text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3, 3;stroke-dashoffset:3.20000005"
+       id="path306"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 264.18,506.35 v -40 H 51.151637 L 51.44,409.06" />
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       id="path308"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 51.25,398.06 5.69,10.9 -11,0.19 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:3, 3;stroke-dashoffset:3.20000005"
+       id="path310"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 264.18,506.35 v -50.59 h 184.7 v -47.88" />
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       id="path312"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 448.88,396.88 5.5,11 h -11 z" />
+    <rect
+       style="fill:#dae8fc;stroke:#6c8ebf;stroke-width:3"
+       id="rect314"
+       pointer-events="none"
+       height="50"
+       width="160"
+       y="506"
+       x="184" />
+    <g
+       id="g320"
+       transform="translate(196.5,521.5)">
+      <switch
+         id="switch318">
+        <text
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text316"
            font-size="15px"
            y="16"
-           x="125">* Bold border: implementation (Class)</text>
+           x="67">ReadOnlyCollection</text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
+       id="path322"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="M 713.59,106.35 V 80.47 h 95.29 V 67.88" />
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       id="path324"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 808.88,56.88 5.5,11 h -11 z" />
+    <rect
+       style="fill:#b0e3e6;stroke:#0e8088;stroke-width:3;stroke-dasharray:3, 3"
+       id="rect326"
+       pointer-events="none"
+       height="50"
+       width="160"
+       y="106"
+       x="634" />
+    <g
+       id="g332"
+       transform="translate(642.5,121.5)">
+      <switch
+         id="switch330">
+        <text
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text328"
+           font-size="15px"
+           y="16"
+           x="70">HashSet.Enumerator</text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3, 3"
+       id="path334"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="M 874.76,106.35 V 80.47 H 808.88 V 68.12" />
+    <path
+       style="fill:none;stroke:#000000;stroke-miterlimit:10"
+       id="path336"
+       pointer-events="none"
+       stroke-miterlimit="10"
+       d="m 808.88,57.12 5.5,11 h -11 z" />
+    <rect
+       style="fill:#b0e3e6;stroke:#0e8088;stroke-width:3;stroke-dasharray:3, 3"
+       id="rect338"
+       pointer-events="none"
+       height="50"
+       width="130"
+       y="106"
+       x="810" />
+    <g
+       id="g344"
+       transform="translate(820.5,121.5)">
+      <switch
+         id="switch342">
+        <text
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           id="text340"
+           font-size="15px"
+           y="16"
+           x="53">List.Enumerator</text>
+      </switch>
+    </g>
+    <path
+       id="path1185-9"
+       d="M 33.159893,621.8496 H 176.7628"
+       style="fill:none;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path1181-1"
+       d="M 294.7628,621.8496 H 457.35621"
+       style="fill:none;stroke:#999999;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.5, 4.5;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g298-5"
+       transform="translate(199.5,589.5)">
+      <switch
+         id="switch296-9">
+        <text
+           style="font-size:15px;font-family:'Segoe UI';text-align:start;text-anchor:start;fill:#000000"
+           id="text294-5"
+           font-size="15px"
+           y="7"
+           x="87">* Solid border: class</text>
+        <text
+           id="text1173-7"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="6.8600349"
+           x="301.14569">* Solid line: class</text>
+        <text
+           id="text1175-6"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="29"
+           x="51">* Dotted line: struct</text>
+        <text
+           id="text1177-8"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="29"
+           x="323">* Dashed line: interface</text>
+        <text
+           id="text1171-5"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="43"
+           x="99">old border: implementation</text>
       </switch>
     </g>
     <g
-       id="g308"
-       transform="translate(719.5,2.5)">
+       id="g298-5-7"
+       transform="translate(299.5,611.5)">
       <switch
-         id="switch306">
-        <foreignObject
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           height="34"
-           width="194"
-           pointer-events="none"
-           style="overflow:visible;">
-          <xhtml:div
-             style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: left;">
-            <xhtml:div
-               style="display:inline-block;text-align:inherit;text-decoration:inherit;">ILogger&lt;T&gt;<xhtml:br />
-https://rnielikki.github.io/Blog/</xhtml:div>
-          </xhtml:div>
-        </foreignObject>
+         id="switch296-9-2">
         <text
-           id="text1164"
-           y="13.801913"
-           x="-5.2719159"
-           style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             style="font-size:13.33333302px;line-height:1.25"
-             y="13.801913"
-             x="-5.2719159"
-             id="tspan1162">ILogger&lt;T&gt;</tspan><tspan
-             style="font-size:13.33333302px;line-height:1.25"
-             id="tspan1166"
-             y="33.801914"
-             x="-5.2719159">https://rnielikki.github.io/Blog/</tspan></text>
+           style="font-size:15px;font-family:'Segoe UI';text-align:start;text-anchor:start;fill:#000000"
+           id="text294-5-8"
+           font-size="15px"
+           y="7"
+           x="-13">* Dashed border:interface</text>
+        <text
+           id="text1173-7-3"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="6.8600349"
+           x="301.14569">* Solid line: class</text>
+        <text
+           id="text1175-6-8"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="29"
+           x="51">* Dotted line: struct</text>
+        <text
+           id="text1177-8-6"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="29"
+           x="323">* Dashed line: interface</text>
+        <text
+           id="text1171-5-6"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="43"
+           x="99">old border: implementation</text>
       </switch>
     </g>
+    <g
+       id="g298-5-7-4"
+       transform="translate(-60.5,611.5)">
+      <switch
+         id="switch296-9-2-6">
+        <text
+           style="font-size:15px;font-family:'Segoe UI';text-align:start;text-anchor:start;fill:#000000"
+           id="text294-5-8-1"
+           font-size="15px"
+           y="7"
+           x="87">* Dotted border: struct</text>
+        <text
+           id="text1173-7-3-9"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="6.8600349"
+           x="301.14569">* Solid line: class</text>
+        <text
+           id="text1175-6-8-6"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="29"
+           x="51">* Dotted line: struct</text>
+        <text
+           id="text1177-8-6-0"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="29"
+           x="323">* Dashed line: interface</text>
+        <text
+           id="text1171-5-6-0"
+           style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#000000"
+           font-size="15px"
+           y="43"
+           x="99">old border: implementation</text>
+      </switch>
+    </g>
+    <switch
+       transform="translate(712.0956,587.02166)"
+       style="fill:#4d4d4d"
+       id="switch302-9">
+      <text
+         style="font-size:15px;font-family:'Segoe UI';text-anchor:middle;fill:#4d4d4d"
+         id="text300-3"
+         font-size="15px"
+         y="33.897968"
+         x="209.48051">
+        <tspan
+           id="tspan1118-9"
+           style="text-align:end;text-anchor:end">https://rnielikki.github.io/Blog/</tspan>
+      </text>
+    </switch>
   </g>
 </svg>

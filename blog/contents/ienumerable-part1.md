@@ -4,10 +4,11 @@
 
 ## What is IEnumerable
 
-Imagine you just have some similar items - lego blocks, beads, pencils, or whatever. You didn't give number to them, so they don't have index, but you can take one by one.
+Imagine you just have some similar items - lego blocks, beads, pencils, or whatever. You didn't give number to them, so they don't have index, but you can **take one by one** (in your head - because it cannot be changed!).
 
 * It has order internally, but it doesn't expose it.
 * The value never changed (immutable). Any LINQ methods will return **new value**.
+* They randomly exist on memory. Not one after the other.
 
 ### Why `Count()` is not recommended
 
